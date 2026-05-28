@@ -1,92 +1,159 @@
-# Outlynk — Remote Engineering & Delivery
+<div align="center">
 
-> **Staff augmentation and project delivery for software organizations.**  
-> Structured intake. Accountable execution. Clear milestones.
+<img src="https://www.outlynk.in/logo.svg" height="48" alt="Outlynk" />
 
----
-
-## What We Do
-
-Outlynk is a remote execution partner for product and platform teams. We embed vetted engineers directly into your workflows, and we deliver fixed-scope projects end-to-end — so you get working software without months of hiring cycles or opaque outsourcing.
-
-We work with venture-backed startups, scaling SaaS companies, and enterprises modernizing platforms across B2B tooling, integrations, data-heavy systems, and regulated workloads.
-
----
-
-## Engagement Models
-
-### 🔹 Staff Augmentation
-Add senior engineers to your ceremonies within days — not months.
-
-- Seniority-matched profiles within **72 hours** for most stacks
-- Engineers adopt your repo standards, sprint cadence, and tooling
-- Flexible contracts with **15-day notice** for monthly hour changes
-- Embedded tech leads available when architecture oversight is needed
-- Time-zone overlap across US and EU working hours
-
-### 🔸 Project Execution
-From discovery through production, under a single statement of work.
-
-- Discovery workshop → written backlog with acceptance criteria
-- Fixed milestones with named owners and scheduled demos
-- Integrated QA, staging deploys, and production cutover playbooks
-- Hypercare window post-launch with full handover documentation
-- Milestone-based invoicing (fixed-price or T&M with agreed ceiling)
-
----
-
-## How It Works
+<br />
+<br />
 
 ```
-1. Define requirements   →   Share scope, stack, and timeline
-2. Match or staff        →   Vetted bench or assembled squad with tech lead
-3. Integrate & deliver   →   Your tooling, your ceremonies, our accountability
-4. Measure & extend      →   Velocity stays visible; handover docs included
+  Staff augmentation & project delivery — built for teams that ship.
 ```
+
+<br />
+
+[![Website](https://img.shields.io/badge/-outlynk.in-0a0c08?style=flat-square&logo=safari&logoColor=white)](https://www.outlynk.in)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0a0c08?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/getoutlynk)
+[![Twitter](https://img.shields.io/badge/-Twitter-0a0c08?style=flat-square&logo=twitter&logoColor=white)](https://x.com/founderoutlynk)
+[![Threads](https://img.shields.io/badge/-Threads-0a0c08?style=flat-square&logo=threads&logoColor=white)](https://www.threads.com/@getoutlynk)
+
+</div>
 
 ---
 
-## By the Numbers
+<br />
+
+```
+  We close the gap between "we need engineers"
+  and "engineers are shipping" — in days, not months.
+```
+
+<br />
+
+Outlynk is a remote execution partner for product and platform teams. We embed vetted senior engineers directly into your workflows, and deliver fixed-scope projects end-to-end — with a named point of contact, explicit milestones, and zero administrative overhead on your side.
+
+<br />
+
+---
+
+## ◈ &nbsp; How we engage
+
+<br />
+
+**`STAFF AUGMENTATION`** &nbsp;·&nbsp; You own the roadmap. We own the throughput.
 
 | | |
-|---|---|
-| **120+** | Milestones delivered across product and platform initiatives |
-| **85** | Engineers currently engaged with client organizations |
-| **14 days** | Median time from signed agreement to first contribution |
+|:--|:--|
+| ⚡ Matched profiles | Within 72 hours for most stacks |
+| 🔁 Flexible terms | Change monthly hours with 15 days notice |
+| 🌍 Time zone overlap | US & EU working hours |
+| 🏗️ Embedded leads | Architecture oversight when needed |
+
+<br />
+
+**`PROJECT EXECUTION`** &nbsp;·&nbsp; One SOW. Fixed milestones. Full handover.
+
+| | |
+|:--|:--|
+| 📋 Written backlog | Acceptance criteria defined before day one |
+| 🎯 Fixed milestones | Named owners and scheduled demos |
+| 🔬 Integrated QA | Staging deploys and production cutover playbooks |
+| 📦 Full ownership transfer | Docs and runbooks included — no tribal knowledge left behind |
+
+<br />
 
 ---
 
-## Our Principles
+## ◈ &nbsp; The numbers
 
-**Clarity before velocity** — We align on outcomes and definitions of done before scaling effort. Ambiguity is resolved in writing.
+<br />
 
-**Measured delivery** — Milestones, demos, and lightweight reporting connect engineering activity to business impact — not just ticket counts.
+<div align="center">
 
-**Security as default** — Background checks, NDAs, least-privilege access, and vendor security questionnaires are part of standard onboarding.
+| `120+` | `85` | `14 days` |
+|:---:|:---:|:---:|
+| Milestones delivered | Engineers currently engaged | Median time to first contribution |
 
-**One accountable thread** — Every engagement has a named point of contact. No black boxes, no routing through layers.
+</div>
 
----
-
-## Get Started
-
-We respond within one business day with a clear next step.
-
-| I want to… | Link |
-|---|---|
-| Add engineers to my team | [**Hire Engineers →**](https://www.outlynk.in/contact?intent=hire) |
-| Outsource a full build | [**Start a Project →**](https://www.outlynk.in/contact?intent=project) |
-| Learn more | [**outlynk.in**](https://www.outlynk.in) |
+<br />
 
 ---
 
-## Connect
+## ◈ &nbsp; How it works
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Outlynk-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/company/getoutlynk)
-[![Twitter](https://img.shields.io/badge/Twitter-@founderoutlynk-1DA1F2?style=flat&logo=twitter)](https://x.com/founderoutlynk)
-[![Instagram](https://img.shields.io/badge/Instagram-@getoutlynk-E4405F?style=flat&logo=instagram)](https://www.instagram.com/getoutlynk)
-[![Threads](https://img.shields.io/badge/Threads-@getoutlynk-000000?style=flat&logo=threads)](https://www.threads.com/@getoutlynk)
+<br />
+
+```
+  01  DEFINE      Share scope, stack, and timeline.
+                  We align in a single working session.
+
+  02  MATCH       Vetted bench for augmentation.
+                  Assembled squad with tech lead for projects.
+
+  03  DELIVER     Your tooling. Your ceremonies. Our accountability.
+                  Weekly updates. Frequent demos. No black boxes.
+
+  04  EXTEND      Velocity stays visible.
+                  Handover docs always included.
+```
+
+<br />
 
 ---
 
-<p align="center">© 2026 Outlynk. All rights reserved. · Remote engineering services.</p>
+## ◈ &nbsp; What guides us
+
+<br />
+
+> **Clarity before velocity** &nbsp;—&nbsp; Outcomes and definitions of done are aligned in writing before effort scales. Ambiguity costs more than the conversation that prevents it.
+
+> **Measured delivery** &nbsp;—&nbsp; Progress reported in terms stakeholders can act on. Not just ticket counts — actual milestones your product and finance teams can use.
+
+> **Security as default** &nbsp;—&nbsp; Background checks, NDAs, and least-privilege access are standard onboarding. Not billable extras.
+
+> **One accountable thread** &nbsp;—&nbsp; A named point of contact per engagement. Escalations, scope changes, and commercial questions route through one person.
+
+<br />
+
+---
+
+## ◈ &nbsp; Who we work with
+
+<br />
+
+```
+  Venture-backed product companies
+  Enterprises modernizing legacy platforms
+  Teams building data-heavy or regulated workloads
+```
+
+`B2B SaaS` &nbsp;·&nbsp; `Internal Tooling` &nbsp;·&nbsp; `API Integrations` &nbsp;·&nbsp; `Platform Engineering` &nbsp;·&nbsp; `Data & Analytics`
+
+<br />
+
+---
+
+## ◈ &nbsp; Start here
+
+<br />
+
+<div align="center">
+
+**We respond within one business day.**
+
+<br />
+
+[![Hire Engineers](https://img.shields.io/badge/Hire%20Engineers%20→-1a1a1a?style=for-the-badge)](https://www.outlynk.in/contact?intent=hire)
+&nbsp;&nbsp;
+[![Start a Project](https://img.shields.io/badge/Start%20a%20Project%20→-1a1a1a?style=for-the-badge)](https://www.outlynk.in/contact?intent=project)
+
+<br />
+
+[How it works](https://www.outlynk.in/how-it-works) &nbsp;·&nbsp; [Services](https://www.outlynk.in/services) &nbsp;·&nbsp; [Proof of work](https://www.outlynk.in/proof-of-work) &nbsp;·&nbsp; [About](https://www.outlynk.in/about)
+
+<br />
+<br />
+
+<sub>© 2026 Outlynk · Remote engineering services · outlynk.in</sub>
+
+</div>
